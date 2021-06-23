@@ -39,7 +39,7 @@ function setup()
 
   ///Setting dimensions.
   sprite.width = window.innerWidth*0.25;
-  sprite.width = window.innerHeight*0.25;
+  sprite.height = sprite.width;
   sprite.x = window.innerWidth*0.5;
   sprite.y = window.innerHeight*0.5;
   //----------------
